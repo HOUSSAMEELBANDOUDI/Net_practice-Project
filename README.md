@@ -1,30 +1,30 @@
-# Net_practice-Project
+# NetPractice — 42 Project
 
-# NetPractice
+A **networking** project from the 42 school curriculum. Practice configuring IP addresses, subnet masks, and routing tables to make networks functional. Covers 10 levels of increasing difficulty.
 
-This GitHub Repo is in collaboration with [Pasqualerossi](https://github.com/pasqualerossi).
+## Topics Covered
 
-# 10 Level Networking Exercise 
+- IP addressing (IPv4)
+- Subnet masks and CIDR notation
+- Routing tables
+- Network interfaces
+- Subnetting
+- Network segmentation
 
-click on each level to view the .JSON file and image. 
+## Levels
 
-- [Level 1](https://github.com/pasqualerossi/NetPractice/tree/main/1st%20Level)
-- [Level 2](https://github.com/pasqualerossi/NetPractice/tree/main/2nd%20Level)
-- [Level 3](https://github.com/pasqualerossi/NetPractice/tree/main/3rd%20Level)
-- [Level 4](https://github.com/pasqualerossi/NetPractice/tree/main/4th%20Level)
-- [Level 5](https://github.com/pasqualerossi/NetPractice/tree/main/5th%20Level)
-- [Level 6](https://github.com/pasqualerossi/NetPractice/tree/main/6th%20Level)
-- [Level 7](https://github.com/pasqualerossi/NetPractice/tree/main/7th%20Level)
-- [Level 8](https://github.com/pasqualerossi/NetPractice/tree/main/8th%20Level)
-- [Level 9](https://github.com/pasqualerossi/NetPractice/tree/main/9th%20Level)
-- [Level 10](https://github.com/pasqualerossi/NetPractice/tree/main/Last%20Level%20-%2010th%20Level)
+10 exercises covering:
+1. Basic IP configuration
+2. Same-network communication
+3. Subnet masks
+4. Multi-interface routing
+5. Internet routing
+6-10. Complex network topologies
 
-# NetPractice Information
-If you want to know more into depth about this NetPractice Project including:
-- IP Addresses
-- Subnet Masks
-- Switches 
-- Routers 
+## How to Use
 
-Click on these links 
-- https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+Each `levelX.json` file contains the network configuration solution for that level.
+
+## Author
+
+**Houssame El Bandoudi** — [GitHub](https://github.com/HOUSSAMEELBANDOUDI) | 42 Student (hel-band)
